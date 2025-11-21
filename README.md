@@ -1,4 +1,4 @@
-# Project Write-Up: Heart Disease Analysis Dashboard
+# Heart Disease Analysis Dashboard
 
 ## Overview
 
